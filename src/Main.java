@@ -13,6 +13,8 @@ public class Main {
         stack.push("Borderlands");
         stack.push("FFVII");
 
+        stack.pop();
+
 
         System.out.println(stack);
 
